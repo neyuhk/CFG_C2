@@ -1,8 +1,8 @@
-Input không hợp lệ.
-Input không hợp lệ.
-Input không hợp lệ.
-Không đỗ trường Đại Học Công Nghệ.
-Không đỗ trường Đại Học Công Nghệ.
-Không đỗ trường Đại Học Công Nghệ.
-Đỗ trường Đại Học Công Nghệ.
-Không đỗ trường Đại Học Công Nghệ.
+Cân đối
+Input không hợp lệ
+Input không hợp lệ
+Thiếu cân
+Cân đối
+Thừa cân
+Béo phì
+Cân đối
